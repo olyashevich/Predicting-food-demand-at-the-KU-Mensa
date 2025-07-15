@@ -3,6 +3,6 @@
 In the repository you will find:
 - The "main" file, which contains our dataframe ( code, comments, visualizations  and descriptions of the steps) .
 - The embedding_clustering & embedding_generation files, which are dedicated to these two processes separately.
--  The pickle files folder contains the results of this embedding
+-  The pickle files folder contains the embedding results 
 -  The data folder contains the purchasing plans and sales reports we based our work on.
 -  The .venv folder contains the scripts.
